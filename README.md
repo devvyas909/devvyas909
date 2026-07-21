@@ -3,7 +3,7 @@
 Computer Science graduate (BSc Hons, York University) based in Toronto, ON.
 
 I build full-stack applications, write tested backend systems, and care about 
-Verifying that software actually works — not just that it compiles.
+Verifying that software actually works, not just that it compiles.
 
 Currently seeking a **Junior QA Analyst** or **Software Tester** role in Toronto.
 
